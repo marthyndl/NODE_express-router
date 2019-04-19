@@ -1,0 +1,24 @@
+{
+  "name": "NODE_express-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marthyndl/NODE_express-router.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marthyndl/NODE_express-router/issues"
+  },
+  "homepage": "https://github.com/marthyndl/NODE_express-router#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4"
+  }
+}
